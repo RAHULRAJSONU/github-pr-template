@@ -1,4 +1,4 @@
-## Initial PR Template
+# Pull Request (Java)
 
 [] Code verified
 [] Test verified
